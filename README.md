@@ -18,4 +18,3 @@
 
 <em>Run with specific tag</em>
 > **npm run cucumber -- -t @Get**
-updated
